@@ -8,7 +8,7 @@
 #include <windows.h>
 #include <algorithm>
 
-using namespace std;
+ using namespace std;
 
 // simply moves the cursor to where i want it to be
 void gotoxy(int x, int y)
